@@ -14,11 +14,23 @@ font-size: 60px;
 
 }
 
-h2{
-
-text-align: center;
+hr{
+    
+    border: 3px   ;
 
 }
+
+.aboutme{
+    text-align: left !important;
+    background-color: lightsalmon;
+}
+
+.sectitle{
+
+text-align: center;
+color: blue;
+}
+
 
 .card-title{
 
