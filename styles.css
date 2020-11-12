@@ -10,3 +10,25 @@
 nav a{
     color: white;
 }
+
+.cdtitle{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.head{
+
+text-align: center;
+font-weight: bold;
+font-size: 50px;
+
+}
+hr{
+
+    margin-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+
+
