@@ -43,6 +43,7 @@ hr{
   clear: both;
 }
 
+
 .prj{
 
     padding: 0px 0px 20px 20px;
@@ -66,5 +67,22 @@ iframe{
     border-radius: 30px;
     border: 0px;
 
+
+}
+
+.links{
+    padding-left: 0;
+    padding-right: 0;
+    border: none;
+
+}
+
+div.links > img{
+    display: block;
+    margin: auto auto;
+    float: left;
+    width:  200px;
+    height: 200px;
+    object-fit: contain;
 
 }
