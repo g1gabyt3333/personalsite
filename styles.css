@@ -86,3 +86,13 @@ div.links > img{
     object-fit: contain;
 
 }
+
+div.links > a{
+    display: block;
+    margin: auto auto;
+    float: left;
+    width:  200px;
+    height: 200px;
+    object-fit: contain;
+
+}

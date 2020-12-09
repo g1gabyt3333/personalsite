@@ -1,10 +1,11 @@
 
 
 // alert("Not ready yet")
-var test = document.getElementById("discord")
+var discord = document.getElementById("discord")
 
+// document.getElementsByClassName("head")[0].innerHTML = "Hello" 
 
-test.addEventListener("click", myFunc)
+discord.addEventListener("click", myFunc)
 
 function myFunc(){
 
